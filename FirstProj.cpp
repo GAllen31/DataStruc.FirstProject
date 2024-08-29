@@ -1,9 +1,12 @@
 // FirstProj.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
+using namespace std;
+
 #include <iostream>
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    cout << "Hello World!\n";
+    cout << "Changes from VS";
 }

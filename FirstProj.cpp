@@ -8,6 +8,6 @@ using namespace std;
 int main()
 {
     cout << "Hello World!\n";
-    cout << "Changes from VS";
+    cout << "Changes from Visual STudio";
     //Changes from github
 }

@@ -9,5 +9,5 @@ int main()
 {
     cout << "Hello World!\n";
     cout << "Changes from Visual STudio";
-    //Changes from github
+    //Changes from GitHub
 }
